@@ -32,7 +32,8 @@ When I play, I play to win – whether it's a game, a project, or life itself
 
 ## 📈 **GitHub Stats**
 
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaNsrn&show_icons=true&theme=default)
+![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaNsrn&show_icons=true&hide=prs,issues,contribs&theme=default)
+
 
 ### 📫 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-nasirian/)
