@@ -4,8 +4,8 @@
 💻 I enjoy exploring the world of technology and creating projects that make life easier and smarter.
 
 ## 🚀 **Currently Working On**
-- Developing AI systems for medical analysis
-- Expanding my skills in Machine Learning, Deep Learning, and Image Processing for healthcare applications
+- Developing AI systems 
+- Expanding my skills in Machine Learning, Deep Learning, and Image Processing 
 
 ## 💡 **About Me**
 - 🧠 Curious and always eager to learn
