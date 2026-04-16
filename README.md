@@ -5,7 +5,7 @@
 
 ## 🚀 **Currently Working On**
 - Developing AI systems 
-- Expanding my skills in Machine Learning, Deep Learning, and Image Processing 
+- Expanding my skills in Machine Learning, Deep Learning, and LLM
 
 ## 💡 **About Me**
 - 🧠 Curious and always eager to learn
